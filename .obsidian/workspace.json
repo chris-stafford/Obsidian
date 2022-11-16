@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1354392e7119a6cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ts-audit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-12.md",
+                "file": "ts-audit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-12.md",
+                "file": "ts-audit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-12.md"
+                "file": "ts-audit.md"
               }
             }
           },
@@ -169,12 +181,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d7c79d52302c697",
+  "active": "1354392e7119a6cb",
   "lastOpenFiles": [
+    "Wallets.md",
+    "ts-audit.md",
+    "2022-11-12.md",
     "HOME SERVER.md",
     "IMO.md",
-    "Wallets.md",
-    "2022-11-12.md",
     "Thanksgiving Trip.md",
     "Done/wallets-api work.md",
     "Day Planners/Untitled.md",
