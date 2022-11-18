@@ -18,4 +18,5 @@
 * [ ] bike book
 * [ ] triplebyte jacket
 * [ ] trash
+* [ ] write to brother about pickup
 * [ ] 
