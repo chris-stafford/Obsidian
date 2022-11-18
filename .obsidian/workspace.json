@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thanksgiving Trip.md",
+                "file": "HOME SERVER.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thanksgiving Trip.md",
+                "file": "HOME SERVER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thanksgiving Trip.md",
+                "file": "HOME SERVER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thanksgiving Trip.md"
+                "file": "HOME SERVER.md"
               }
             }
           },
@@ -146,8 +146,8 @@
   },
   "active": "1b17b63edf4ac276",
   "lastOpenFiles": [
-    "2022-11-12.md",
     "Thanksgiving Trip.md",
+    "2022-11-12.md",
     "ts-audit.md",
     "Wallets.md",
     "HOME SERVER.md",
