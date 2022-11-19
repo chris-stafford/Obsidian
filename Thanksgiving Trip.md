@@ -1,12 +1,12 @@
 #thanksgiving-2022
 - [x] Money for Dog ✅ 2022-11-18
 - [x] Everything packed and ready to go by Thursday ✅ 2022-11-18
-- [ ] Reserve Uber on schedule, don't risk it
+- [x] Reserve Uber on schedule, don't risk it ✅ 2022-11-19
 - [x] Headphones for kids ✅ 2022-11-18
 - [ ] meridith ironman watch app
-- [ ] kids shoes
+- [x] kids shoes ✅ 2022-11-19
 - [ ] kids toothbrushes
-- [ ] kids jackets
+- [x] kids jackets ✅ 2022-11-19
 - [ ] kids headphones
 - [ ] kids electronics
 - [ ] kids snacks
@@ -14,9 +14,9 @@
 - [ ] me toiletries
 - [ ] me contacts
 * [ ] me macbook w/ docking station
-* [ ] Open port for server!
+- [x] Open port for server! ✅ 2022-11-19
 * [ ] bike book
-* [ ] triplebyte jacket
-* [ ] trash
-* [ ] write to brother about pickup
+- [x] triplebyte jacket ✅ 2022-11-19
+- [x] trash ✅ 2022-11-19
+- [x] write to brother about pickup ✅ 2022-11-19
 * [ ] 
