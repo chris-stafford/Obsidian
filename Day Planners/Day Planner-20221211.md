@@ -1,0 +1,11 @@
+## Day Planner
+- [ ] fletcher's ninja thing + home depot 11:30 - 1:30
+- [ ] Pie crust 1:30 - 2:00
+- [ ] remy haircut 2:00 - 3:00
+- [ ] open time 3:00 - 5:00
+- [ ] prepare pie 5:00 - 6:00 
+	- [ ] Leave instructions for baking pie, shielding crust
+- [ ] family farm 6:00 - 7:00
+- [ ] dinner 7:00 - 8:00
+- [ ] lights out 8:00 - 9:00
+- [ ] 

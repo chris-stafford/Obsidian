@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7eb6d65a7a7f7a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20221211.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thanksgiving Trip.md",
+                "file": "Day Planners/Day Planner-20221211.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thanksgiving Trip.md",
+                "file": "Day Planners/Day Planner-20221211.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thanksgiving Trip.md"
+                "file": "Day Planners/Day Planner-20221211.md"
               }
             }
           },
@@ -144,10 +157,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b17b63edf4ac276",
+  "active": "a7eb6d65a7a7f7a1",
   "lastOpenFiles": [
-    "HOME SERVER.md",
+    "Untitled.md",
     "Thanksgiving Trip.md",
+    "HOME SERVER.md",
     "2022-11-12.md",
     "ts-audit.md",
     "Wallets.md",
